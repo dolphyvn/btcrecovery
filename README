@@ -1,0 +1,9 @@
+Install python3-bsddb3, python3 on windows
+After installed run:
+
+`python3 btc-mkey.py wallet.dat`
+
+This will produce
+
+`Partial Bitcoin Core encrypted master key, salt, iter_count, and crc in base64:
+YmM65iRhIMReOQ2qaldHbn++T1fYP3nXX5tMHbaA/lqEbLhFk6/1Y5F5x0QJAQBI/maR`
